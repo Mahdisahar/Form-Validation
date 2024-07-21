@@ -1,6 +1,7 @@
-sign up form with validation using DOM
+Sign up form with validation using DOM
 
 The challenge
+
 Users should be able to:
 
 View the site depending on their device's screen size
@@ -26,3 +27,7 @@ Built with Semantic HTML5
 CSS custom properties
 Flexbox
 Mobile-first workflow
+
+Author
+
+Sahar Mahdi
