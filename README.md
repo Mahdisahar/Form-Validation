@@ -10,6 +10,24 @@ The error message should say "[Field Name] cannot be empty"
 If the email address is not formatted correctly (i.e. a correct email address should have this structure: name@host.tld). 
 The message for this error should say "Looks like this is not an email"
 
+Screenshot
+
+Desktop
+
+![](images/Desktop.png)
+
+Mobile
+
+![](images/Mobile.png)
+
+
+My process
+
+Built with Semantic HTML5 
+CSS custom properties
+Flexbox
+Mobile-first workflow
+
 
 
 
