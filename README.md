@@ -1,8 +1,8 @@
-Sign up form with validation using DOM
+<h1>Sign up form with Validation using DOM</h1>
 
-The challenge
+<h3>The challenge !!!</h3>
 
-Users should be able to:
+<p>Users should be able to:</p>
 
 View the site depending on their device's screen size
 See hover states for submit button
@@ -11,23 +11,23 @@ The error message should say "[Field Name] cannot be empty"
 If the email address is not formatted correctly (i.e. a correct email address should have this structure: name@host.tld).
 The message for this error should say "Looks like this is not an email"
 
-Screenshot
+<h3>Screenshot </h3>
 
-Desktop
+<h2>Desktop</h2>
 
 ![](images/Desktop.png)
 
-Mobile
+<h2>Mobile</h2>
 
 ![](images/Mobile.png)
 
-My process
+<h3>My process</h3>
 
-Built with Semantic HTML5
-CSS custom properties
-Flexbox
-Mobile-first workflow
+<p>Built with Semantic HTML5,
+CSS, JavaScript, 
+Flexbox and
+Mobile-first workflow</p>
 
-Author
+<h3>Author</h3>
 
-Sahar Mahdi
+<h4>Sahar Mahdi</h4>
